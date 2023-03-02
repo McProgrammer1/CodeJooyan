@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeJooyan.Web", "CodeJooyan.Web\CodeJooyan.Web.csproj", "{55E11F79-B423-4072-8D4F-E8674223B596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeJooyan.Data", "CodeJooyan.Data\CodeJooyan.Data.csproj", "{720BD156-F5C8-4E22-9CDD-08FC12F1492F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeJooyan.Core", "CodeJooyan.Core\CodeJooyan.Core.csproj", "{D51DA830-16CB-4A6B-AA21-3011A1D5FFEB}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E11F79-B423-4072-8D4F-E8674223B596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E11F79-B423-4072-8D4F-E8674223B596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E11F79-B423-4072-8D4F-E8674223B596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E11F79-B423-4072-8D4F-E8674223B596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{720BD156-F5C8-4E22-9CDD-08FC12F1492F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720BD156-F5C8-4E22-9CDD-08FC12F1492F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720BD156-F5C8-4E22-9CDD-08FC12F1492F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720BD156-F5C8-4E22-9CDD-08FC12F1492F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D51DA830-16CB-4A6B-AA21-3011A1D5FFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51DA830-16CB-4A6B-AA21-3011A1D5FFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51DA830-16CB-4A6B-AA21-3011A1D5FFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51DA830-16CB-4A6B-AA21-3011A1D5FFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
