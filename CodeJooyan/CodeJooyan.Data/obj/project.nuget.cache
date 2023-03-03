@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yYV+SYtNwobywRo79jtRO9YREODJ+b0+Gn0Gj3MQWsq66nq1Nv+Yx6kZDxM6f2HDkUYKj590ZdOgyojTzTYMmw==",
+  "dgSpecHash": "rpBfU2A8/xxT4A90Vk/Y2F7L+ArJ/fZqXB3vQAazQcSbfr/3F7mYLHGYzo/JVm8Ht0zZqI3eZ2fc6kLdqWrxWQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\source\\repos\\CodeJooyan\\CodeJooyan\\CodeJooyan.Data\\CodeJooyan.Data.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.1\\microsoft.entityframeworkcore.design.3.1.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.1\\microsoft.entityframeworkcore.relational.3.1.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.1\\microsoft.entityframeworkcore.sqlserver.3.1.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.1\\microsoft.entityframeworkcore.tools.3.1.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.1\\microsoft.extensions.caching.abstractions.3.1.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.1\\microsoft.extensions.caching.memory.3.1.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.1\\microsoft.extensions.configuration.3.1.1.nupkg.sha512",

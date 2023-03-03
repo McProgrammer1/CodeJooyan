@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\CodeJooyan\CodeJooyan\CodeJooyan.Core\bin\Debug\netcoreapp3.1\CodeJooyan.Core.deps.json
+C:\Users\admin\source\repos\CodeJooyan\CodeJooyan\CodeJooyan.Core\bin\Debug\netcoreapp3.1\CodeJooyan.Core.dll
+C:\Users\admin\source\repos\CodeJooyan\CodeJooyan\CodeJooyan.Core\bin\Debug\netcoreapp3.1\CodeJooyan.Core.pdb
+C:\Users\admin\source\repos\CodeJooyan\CodeJooyan\CodeJooyan.Core\obj\Debug\netcoreapp3.1\CodeJooyan.Core.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CodeJooyan\CodeJooyan\CodeJooyan.Core\obj\Debug\netcoreapp3.1\CodeJooyan.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CodeJooyan\CodeJooyan\CodeJooyan.Core\obj\Debug\netcoreapp3.1\CodeJooyan.Core.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CodeJooyan\CodeJooyan\CodeJooyan.Core\obj\Debug\netcoreapp3.1\CodeJooyan.Core.AssemblyInfo.cs
+C:\Users\admin\source\repos\CodeJooyan\CodeJooyan\CodeJooyan.Core\obj\Debug\netcoreapp3.1\CodeJooyan.Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CodeJooyan\CodeJooyan\CodeJooyan.Core\obj\Debug\netcoreapp3.1\CodeJooyan.Core.dll
+C:\Users\admin\source\repos\CodeJooyan\CodeJooyan\CodeJooyan.Core\obj\Debug\netcoreapp3.1\CodeJooyan.Core.pdb
